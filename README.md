@@ -25,3 +25,8 @@ logo -> logo do index.html
 Photos -> imagens das telas html
 
 thumbnails -> imagens para o thumbnail dos html
+
+
+ALTERAÇÃO IMPORTANTE ----------- ATENÇÃO
+
+Agora todas as branch saem da main, e dão merge na main
