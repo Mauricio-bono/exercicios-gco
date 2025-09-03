@@ -14,3 +14,14 @@ Branches de bugs
 * bug/erro-a1
 * bug/erro-a2
 * bug/erro-a3
+
+
+Estrutura de Pastas:
+
+html -> Todos os códigos htmls
+
+logo -> logo do index.html
+
+Photos -> imagens das telas html
+
+thumbnails -> imagens para o thumbnail dos html
